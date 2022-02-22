@@ -1,0 +1,689 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the execution of Brigadier Rookwood, Major Lowick, and Mr. Cranburn, at Tyburn, April 29th, 1696</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25171</idno>
+            <idno type="STC">Wing A287</idno>
+            <idno type="STC">ESTC R4987</idno>
+            <idno type="EEBO-CITATION">11889948</idno>
+            <idno type="OCLC">ocm 11889948</idno>
+            <idno type="VID">50434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 47:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the execution of Brigadier Rookwood, Major Lowick, and Mr. Cranburn, at Tyburn, April 29th, 1696</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lowick, Robert, d. 1696.</term>
+               <term>Rookwood, Ambrose, 1664-1696.</term>
+               <term>Cranburne, Charles, d. 1696.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50434:1" rendition="simple:additions"/>
+            <head>An Account of the Execution of Brigadier <hi>Rookwood,</hi> Major <hi>Lowick</hi> and Mr. <hi>Cranburn,</hi> at <hi>Tyburn. April</hi> 29th. 1696.</head>
+            <p>WHEN the Priſoners came firſt up into the Cart. Mr. <hi>Lowick</hi> and Mr. <hi>Rookwood</hi> (being Roman Catholicks) kneeled down together, and Mr. <hi>Lowick</hi> read <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Prayers, for above half an hour, out of a ſmall Eng<g ref="char:EOLhyphen"/>liſh Book of devotion, (writ by an Abbot). And Mr. <hi>Cranburn,</hi> kneeling down by himſelf, prayed to this effect.</p>
+            <q>
+               <p>O Lord Jeſus, forgive me all my Sins, and forgive all my Perſecutors; Grant me true Repentance, now I ſuffer for thy Cauſe; Let me have thy aſſiſtance and ſup<g ref="char:EOLhyphen"/>port, now I ſuffer for thy Cauſe. Give ſtedfaſtneſs to thy Followers, and Repentance to all their Perſecutors. Carry me to thoſe Happy Manſions prepared for all thoſe that ſuffer for mee, and all I beg for Chriſt Je<g ref="char:EOLhyphen"/>ſus ſake: <hi>Our Father which art in Heaven,</hi> &amp;c.</p>
+               <p>Almighty and Moſt Gracious God, ſupport, I pray thee, thy unworthy Servant in this laſt and great bu<g ref="char:EOLhyphen"/>ſineſs of laying down my Life. Let me not diſhonour the Cauſe and Truth that I ſuffer for. It is not my <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Righteouſneſs of my Cauſe, but the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Errors of my Life, which makes me <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> appear before thy Righteous Bar. But cleanſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> my Sins, and then I ſhall meet Death with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. I know, when the Sting of Death is ta<g ref="char:EOLhyphen"/>ken out, there is an averſion in our nature; but let the influence of thy Grace overcome it in my Spirit. Poſſeſs my mind more and more with a ſenſe of the Righteouſneſs of the Cauſe I ſuffer for: And whatever terror would otherwiſe ſtrike into me, let it arm my <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with confidence, that I dye for thee, and thy Cauſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at I ſhall be received into thy reſt. <hi>Lord, into thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I commend my Soul.</hi>
+               </p> 
+            </q>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>
+                  <hi>Mr. Cranburn,</hi> take what time you will, we will ſtay for you.</p>
+               <p>Then the Hangman tyed the Rope about Mr. <hi>Cranburn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>If you will retire again, Mr. <hi>Cranburn,</hi> we will wait for you.</p>
+               <p>Then <hi>Cranburn</hi> kneeled d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn and prayed again. And after a little the they all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> up, and kiſſed each other.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> own time, Mr. <hi>Lowick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you, Sir.</p>
+               <p>Then <hi>Cranburn</hi> had the Rope put about his Neck.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </speaker>
+               <p>Have you got a Cap Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Yes, I have. And the Executioner took it out of his Pocket, and a Paper with it.</p>
+            </sp>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>What is in this Paper?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>Do you deliver no Paper to the Sheriff?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>No. My Papers have been taken from me. There is a Paper in my Boſom, which I would have you take out; open my Breaſt, and you will ſee it. Which the Executioner did, and took it out, and askt him it he ſhould give it to the Sheriff.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>No. There is nothing in it, but a <hi>Me<g ref="char:EOLhyphen"/>morandum</hi> of what I would ſay. My Papers were taken from me.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Who took them from you?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>
+                  <hi>Tokefield.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>You made it with your own hand, did you not?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Yes, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>We cannot read this (it being Writ with a Pencil); make your ſelf as eaſie as you can. Will you ſpeak the Words your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Read it audibly, and leiſurely, for you ſee there is one Writes, for we would do you no wrong and we will command ſilence.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Gentlemen, I am in a few moment to appear before the Great and Righteous Judge of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> men, to whom I am to give an Account of all my Acti<g ref="char:EOLhyphen"/>ons. I confeſs I have been a great and wicked Sinner but I hope to find Pardon by the Merits and Interceſſion of our Lord and Saviour Jeſus Chriſt. I would adviſe all of you to be diligent and conſcientious in your duty to God; and whoever is ſo, it will make him a good Chriſtian, and I am ſure he that is a good Chriſtian, can never be a Rebel to his Lawful King. As to the Aſſaſſination of the Prince of <hi>Orange,</hi> I had notice of it on <hi>Saturday,</hi> between the hours of nine and ten, <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> the 22d. Mr. <hi>Charnocke,</hi> after I had carried the names of the Perſons to him, —</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Who had you the names from?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>From Captain <hi>Porter.</hi> And after I car<g ref="char:EOLhyphen"/>ried the names to Mr. <hi>Charnocke,</hi> he made an addition of ſix of his own, and ſent me back to Mr. <hi>Porter,</hi> to acquaint him that it was neceſſary to come to him, and they two to go to the Knight together.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>What Knight was it?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>That I cannot tell.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Go on.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>The 22d I had knowledge of this De<g ref="char:EOLhyphen"/>ſign, between 10 and 11. Between 11 and 12 the time was over. And when I came from Mr. <hi>Porter</hi> to Mr <hi>Charnocke,</hi> he told me the Knight had altered his mea<g ref="char:EOLhyphen"/>ſures; and he deſired Mr. <hi>Porter</hi> would take care of him ſelf, and he would not have him make too much haſt out, for fear of ſurprizing any of the Gentlemen tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were with him. What was ſworn againſt me by Mr. <hi>Porter,</hi> Mr. <hi>Pendergraſs,</hi> and Mr. <hi>La Rue,</hi> was true 1. That I ſent a Sword to Mr. <hi>Pendergraſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> And 2. was at the <hi>Sun Tavern.</hi> And 3. I did carry the Note But I did not know what it was for. I wiſh they may have repentance for the ſame. As I am to do juſtice t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all men, ſo am I more eſpecially to my Soveraign King <hi>James;</hi> I believe he had no knowledge of the Deſign And I doubt not but God will reſtore him to his Ancien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Rightful Kingdoms. And as I am in duty boun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to pray for him, (then he kneel'd down) <hi rend="margQuotes">I humbly be<g ref="char:EOLunhyphen"/>ſeech God to Bleſs, Proſper and Keep him, and giv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him Patience under all his Sufferings, and a happ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> iſſue out of all his Afflictions, and to grant that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Plots againſt him may proſper. Be a ſtrong Towe againſt the face of his Enemies. As for thoſe tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> would not have him to reign over them, let them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cloathed with ſhame, but upon himſelf let his Crow flouriſh. Bleſs our Gracious Queen <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y, Kather<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> the Queen <hi>Dowager,</hi> and His Royal Highneſs the Prin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <hi>Wales;</hi> Proſper them with all Happineſs, Inric<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them with thy Heavenly Grace, and bring them t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thine everlaſting Kingdom through Jeſus Chriſt o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Lord.</hi> (Then he ſtood up.)</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Mr. <hi>Cranburn,</hi> take your own time.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>I do believe that very few Perſons kne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this Deſign, but thoſe that were the principal Prom<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ters of it; and I beſeech God no more Blood may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpilt. I beſeech Almighty God to open the Eyes of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nation, that this Nation may not became a Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to Foreign Power.</p>
+            </sp>
+            <pb facs="tcp:50434:2"/>
+            <sp>
+               <speaker>Mr. <hi>Sheriff .</hi>
+               </speaker>
+               <p>You ſay, you believe few Perſons knew this matter, and that you hope no more Blood will ſpilt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>I do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Do you mean that there may be no more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lots againſt the Government?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>What I ſaid, I ſhall not unſay. As to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny Religion, I was born and baptized in the Church of <hi>England,</hi> which Church always taught me to abhor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat damnable Doctrine of Depoſing or Killing Kings; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd I am ſorry that any that would be counted Mem<g ref="char:EOLhyphen"/>bers of it, ſhould be guilty of Uſurpation and Rebellion, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd I beſeech God they may repent of the ſame. I have had a ſoul Scandal caſt upon me, that I behaved <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſelf very indecently before the Privy-Council, which was never my Nature: And I appeal to my Lord <hi>Shrewsbury,</hi> who is a Perſon of Honour, and I believe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e will do me that juſtice as to acquit me of it. I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umbly beg Pardon of all I have injured, and I freely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orgive all, and I would adviſe all to do as they would be done by.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>You ſpeak of the Doctrine of the Church of <hi>England</hi> teaching you to abhor King killing; what do you think of the Aſſaſſination of our King? Will the Church of <hi>England</hi> allow it?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>As to the Aſſaſſination, I gave you an account.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Does the Word of God, or the Doctrine of the Church of <hi>England</hi> allow of any Aſſaſſination?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Neither the Law, nor the Doctrines of the Church ever taught me to Depoſe my Lawful Sove<g ref="char:EOLhyphen"/>reign.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Did it ever teach you to Aſſaſſinate any private Man? Were you not concern'd in it? Or did you not know of it?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>I knew of it <hi>February</hi> the 22d. between <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en and eleven, and between eleven and twelve the whole Deſign was over.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>If you had had an opportunity, would you have diſcovered it?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>I would never have diſcovered any Man. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f I would have been an In<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormer, I might have been at<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iberty about the Town, as well as others.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Did you not know of the Deſign to Aſ<g ref="char:EOLhyphen"/>aſſinate the King?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>I did know of it.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Major <hi>Lowick,</hi> I have ſeen that ingenuity <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n you, that I hope you have ſome good Advice to the People.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I could never ſpeak <hi>extempore.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Do you deliver any Paper?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I have a Paper here, but I doubt you can<g ref="char:EOLhyphen"/>not read it. I humbly beg the good Prayers of all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood People that are here.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>I only deſire you to ſatisfy the People, whe<g ref="char:EOLhyphen"/>ther you come to Suffer juſtly, or unjuſtly.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I am not guilty in that poſitive degree. I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt own I did know of it, and if the thing had gone <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ward, I do believe I had been ingaged. In what I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave done in drawing in any into the Deſign, I humbly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eg their pardon, I hope they will all forgive m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and forgive every one.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>You do acknowledge you were concerned <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I do acknowledge it, and I do beg the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ardon of every one that Suffers on my account.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>You beg pardon of God, and of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I do, ſo far as I was ingaged to do h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> injury. And I forgive all People.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>The Lord grant you forgiveneſs, Sir. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would not make any thing uneaſy to you?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I believe you will not.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Mr. <hi>Rookwood,</hi> will you ſay any thing?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Rookwood.</hi>
+               </speaker>
+               <p>I refer my ſelf to the Paper (which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> delivered to the Sheriff) I acknowledge I was to a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> concerned.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>If I were to live again in the World, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would live by the Grace of God to better purpoſe. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> People know I am a <hi>Roman</hi>-Catholick, and was born <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Roman</hi>-Catholick Parents, and ſo was brought up; a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I beg of you all your Prayers. I humbly beg pardon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all the World, and forgive all the World, and am <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Charity with all men, and I beg pardon of all th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Suffer on my account.</p>
+               <p>Then the Executioner askt them ſeverally forgiveneſs To which they anſwer'd, That they did freely forgi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him, and all the World.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>You ſhall have your own time.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>O Jeſus, receive me. And then he ſevera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> times kiſſed the Crucifix in his Book, and delivered <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to one to give one of his Friends.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>Shall we ſay ſome <hi>Pater Noſters</hi> more?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Rookwood.</hi>
+               </speaker>
+               <p>We cannot have time.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick</hi>
+               </speaker>
+               <p>
+                  <hi>Jeſus Maria,</hi> O Jeſus, Son of God, ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mercy on me. I heartily beg pardon for all the thing that I denied, that were true.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>You mean at your Trial?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>In all places, when I was examined, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all places. I beg pardon of all the World, in every thin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have offended.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>I wiſh you had not given your ſelf th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cauſe to be troubled.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I wiſh ſo too. O Jeſus have mercy upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me. So I wiſh. I am ſorry with all my Heart and So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that I ever did any thing like it; ſorry from my Soul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> O <hi>Jeſus Maria;</hi> O <hi>Jeſus,</hi> look upon us Penitents give us one view of Heaven. O <hi>Jeſus, Maria,</hi> have merc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on me! Holy <hi>Mary,</hi> Mother of God! <hi>Our Father wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> art in Heaven,</hi> &amp;c. I deſire the man to give me the Bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> again.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>Give him the Book again, (which w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> done, and he again kiſſed the Crucifix, and gave ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Book again to the man).</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>I humbly beg thee, Dear Saviour, to for<g ref="char:EOLhyphen"/>give me all my Sins. Jeſus, who ſuffered for me, and all mankind, upon the Croſs, pardon all my Sins.</p>
+            </sp>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>Tell me when I muſt draw away.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>We muſt not be our own Executioners God be merciful to us.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff.</hi>
+               </speaker>
+               <p>When the Executioner is withdrawn, give a ſtamp with your Foot, give your own Sign.</p>
+            </sp>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>I hope you forgive me.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoners.</speaker>
+               <p>We forgive thee and all mankind.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Lowick.</hi>
+               </speaker>
+               <p>
+                  <hi>Jeſus Maria,</hi> have mercy upon us.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cranburn.</hi>
+               </speaker>
+               <p>Lord Jeſus receive my Soul.</p>
+            </sp>
+            <p>Then they continued in their private Ejaculations ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome time (after their Caps were over their Eyes), and then the Cart was drawn away; and having hung about half an hour, they were cut down and quartered.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick Lane.</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
